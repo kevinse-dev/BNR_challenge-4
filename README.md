@@ -39,3 +39,11 @@ Project ini adalah sebuah game sederhana yang di buat menggunakan bahasa javascr
         Prinsip terakhir dalam OOP adalah polymorphism. Pada dasarnya polymorphism adalah kemampuan suatu pesan atau data untuk diproses lebih dari satu bentuk. 
         Memungkinkan class punya banyak bentuk method dengan nama yang sama. Juga
         memungkinkan instansiasi objek yang ditujukan pada super class.
+
+
+* DOM (Document Object Model)
+
+
+  dokumen (HTML) yang dimodelkan dalam sebuah objek.
+  
+  Objek dari dokumen ini menyediakan sekumpulan fungsi dan atribut/data yang bisa kita manfaatkan dalam membuat program Javascript. Inilah yang disebut API (Application           Programming Interface).
